@@ -1,5 +1,5 @@
 /.docker/*
-!*/**/.keep
+!.keep
 
 bower_components
 node_modules
