@@ -1,7 +1,6 @@
-/.wordpress_volumes/
-!/.wordpress_volumes/.keep
+/.wordpress_volumes/*
+/.mysql_volumes/*
 
-/.mysql_volumes/
-!/.mysql_volumes/.keep
+!.keep
 
 bower_components
