@@ -1,6 +1,4 @@
-/.wordpress_volumes/*
-/.mysql_volumes/*
-
+/.docker/*
 !.keep
 
 bower_components
