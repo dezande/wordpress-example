@@ -1,5 +1,9 @@
-/.docker/*
-!.keep
+/.docker/mysql_volumes/*
+!/.docker/mysql_volumes/.keep
+
+/.docker/wordpress_volumes/*
+!/.docker/wordpress_volumes/.keep
+
 
 bower_components
 node_modules
