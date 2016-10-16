@@ -1,2 +1,7 @@
 /.wordpress_volumes/
 !/.wordpress_volumes/.keep
+
+/.mysql_volumes/
+!/.mysql_volumes/.keep
+
+bower_components

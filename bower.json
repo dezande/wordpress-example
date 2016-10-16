@@ -1,0 +1,21 @@
+{
+  "name": "wordpress_example",
+  "authors": [
+    "Vincent Cornière <vincent.corniere@gmail.com>"
+  ],
+  "description": "Theme for wordpress",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "font-awesome-sass": "^4.6.2"
+  }
+}
